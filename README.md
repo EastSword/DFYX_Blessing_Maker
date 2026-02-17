@@ -1,9 +1,5 @@
 ![Stars](https://img.shields.io/github/stars/EastSword/DFYX_Blessing_Maker?style=social)
 
-![License](https://img.shields.io/github/license/EastSword/DFYX_Blessing_Maker)
-
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-
 *拒绝千篇一律，用 AI 赋予传统祝福以东方灵魂。*
 
 痛点直击：
